@@ -6,7 +6,7 @@ Hi! I'm Ted, a `Computer Science` major at the University of Waterloo who really
 <a href="https://www.linkedin.com/in/ted-h-04/">![](https://img.shields.io/badge/linkedin-%230072B1.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://i.imgur.com/AD3MbBi.jpeg">![](https://img.shields.io/badge/L1FT%238580-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)</a>
 <a href="mailto:ted.he04@gmail.com">![](https://img.shields.io/badge/email-%23BB001B.svg?style=for-the-badge&logo=Gmail&logoColor=white) </a>
-<a href="github.com/ted-he/">![](https://img.shields.io/badge/recursion-%23444444.svg?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://github.com/ted-he/">![](https://img.shields.io/badge/recursion-%23444444.svg?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 
 ## :computer: | Skills
 ![](https://img.shields.io/badge/java-%23F89820.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
