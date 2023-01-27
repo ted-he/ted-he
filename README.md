@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ted-he&style=for-the-badge&color=444444)  
+## :wave: | About Me
+Hi! I'm Ted, a `Computer Science` major at the University of Waterloo who really doesn't like writing long "About Me" sections. I prefer to focus on the backend side of things, but I can create a workable UX in a pinch. I enjoy music, tennis, skiing, biking, and wasting money on objectively unnecessary keyboards.
+
 ## :calling: | Contact  
 <a href="https://www.linkedin.com/in/ted-h-04/">![](https://img.shields.io/badge/linkedin-%230072B1.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="https://i.imgur.com/AD3MbBi.jpeg">![](https://img.shields.io/badge/L1FT%238580-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)</a>
