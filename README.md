@@ -33,4 +33,4 @@ Hi! I'm Ted, a `Computer Science` major at the University of Waterloo who really
 ![](https://img.shields.io/badge/intellij-%238358a8.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
 ## :fuelpump: | Fuel
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+![](https://img.shields.io/badge/powered%20by-caffeine-%235E2C04.svg?style=for-the-badge&logo=BuyMeACoffee&logoColor=white)
