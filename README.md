@@ -1,1 +1,1 @@
-:wave: <a href="https://www.linkedin.com/in/t3he/">🔗</a>
+:wave: I avoid duplicating information across my profiles, and there's pretty much nothing visible here anyways. Take a look at my LinkedIn profile instead: <a href="https://www.linkedin.com/in/t3he/">🔗</a>
